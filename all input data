@@ -1,8 +1,4 @@
 
-
-
-
-
 \begin{table}[]
  \begin{center}
 \caption{Input Data: Distance (in km), traveling cost per unit distance (INR), fixed carrying cost (INR),
